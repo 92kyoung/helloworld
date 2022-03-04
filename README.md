@@ -4,7 +4,7 @@
 
 ## PHOTO
 <img src="hi.PNG" {: width="900px" height="900px"}> <br>
-
+<img src="hi.png" width="300" height="300"> <br>
 ## ABOUT ME
 [CLICK HEAR](/project.pptx) <br>
 
