@@ -3,7 +3,7 @@
 
 
 
-<img src="hi.png"/> <br>
+<img src="hi.PNG"/> <br>
 
 [발표자료](/project.pptx) <br>
 
